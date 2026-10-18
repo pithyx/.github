@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="logo.svg" alt="Pithyx logo" width="120" height="120">
-</p>
+<img src="logo.svg" alt="Pithyx logo" width="72" height="72" align="right">
 
-<h1 align="center">Pithyx</h1>
+# Pithyx
 
-<p align="center">
-  Your server, with a desktop.<br>
-  <a href="https://pithyx.org">pithyx.org</a> · <a href="https://pithyx.org/docs/">Docs</a> · <a href="https://pithyx.org/docs/getting-started/quick-start/">Get started</a>
-</p>
+Your server, with a desktop. [pithyx.org](https://pithyx.org) · [Docs](https://pithyx.org/docs/) · [Get started](https://pithyx.org/docs/getting-started/quick-start/)
 
 Pithyx is a free, self-hosted NAS and server operating system with a web desktop. It turns a computer you own into a NAS and app server: it runs on Debian 13, manages storage with ZFS, shares files over SMB, SFTP, WebDAV and FTP, and runs apps as containers, all from a desktop in the browser that works the same on a phone and on an ultrawide monitor. Everything stays on your box: no telemetry, no cloud accounts, no services the system depends on.
 
