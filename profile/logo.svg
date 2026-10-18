@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Pithyx">
+  <!-- The Pithyx mark with the lid shut, centred in the viewBox (desktop/src/ui/Logo.tsx draws the same, with motion). -->
+  <polygon points="18,39.1 49.3,57.17 49.3,83.77 18,65.7" fill="#0E4A5A"/>
+  <polygon points="50.7,57.17 82,39.1 82,65.7 50.7,83.77" fill="#1A6E82"/>
+  <polygon points="18,34.7 50,53.18 50,56.18 18,37.7" fill="#B37A1F"/>
+  <polygon points="50,53.18 82,34.7 82,37.7 50,56.18" fill="#C88B2B"/>
+  <polygon points="50,16.22 82,34.7 50,53.18 18,34.7" fill="#E0A33A"/>
+</svg>
